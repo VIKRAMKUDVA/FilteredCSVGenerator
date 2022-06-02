@@ -1,0 +1,60 @@
+-----------Exception Details on  02-06-2022 15:05:46-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-06-2022 15:05:46
+
+Error: IOException
+
+Exception Type: System.IO.IOException
+
+Error Message : The process cannot access the file 'C:\Users\Vikram\source\repos\FilteredCSVGenerator.xUnitTest\Test Samples\CSVInUseTestCase\DataExtractor_Example_Input.csv' because it is being used by another process.
+
+Error Source :System.Private.CoreLib
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  02-06-2022 15:33:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-06-2022 15:33:00
+
+Error: IOException
+
+Exception Type: System.IO.IOException
+
+Error Message : The process cannot access the file 'C:\Users\Vikram\source\repos\FilteredCSVGenerator.xUnitTest\Test Samples\CSVInUseTestCase\DataExtractor_Example_Input.csv' because it is being used by another process.
+
+Error Source :System.Private.CoreLib
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  02-06-2022 16:41:17-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-06-2022 16:41:17
+
+Error: IOException
+
+Exception Type: System.IO.IOException
+
+Error Message : The process cannot access the file 'C:\Users\Vikram\source\repos\FilteredCSVGenerator\Source\FilteredCSVGenerator.xUnitTest\Test Samples\CSVInUseTestCase\DataExtractor_Example_Input.csv' because it is being used by another process.
+
+Error Source :System.Private.CoreLib
+
+
+--------------------------------*End*------------------------------------------
+
+
+

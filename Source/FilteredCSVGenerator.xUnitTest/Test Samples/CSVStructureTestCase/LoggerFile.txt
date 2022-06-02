@@ -1,0 +1,40 @@
+-----------Exception Details on  02-06-2022 14:54:46-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-06-2022 14:54:46
+
+Error: Exception
+
+Exception Type: System.Exception
+
+Error Message : Input Table Structure doesnt match as Expected or Some Required Columns in Input CSV are missing!!
+
+Error Source :FilteredCSVGenerator
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  02-06-2022 16:41:41-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-06-2022 16:41:41
+
+Error: Exception
+
+Exception Type: System.Exception
+
+Error Message : Input Table Structure doesnt match as Expected or Some Required Columns in Input CSV are missing!!
+
+Error Source :FilteredCSVGenerator
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,40 @@
+-----------Exception Details on  02-06-2022 14:54:23-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-06-2022 14:54:23
+
+Error: Exception
+
+Exception Type: System.Exception
+
+Error Message : AlgoParams Column 2 is Null or Empty
+
+Error Source :FilteredCSVGenerator
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  02-06-2022 16:41:52-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-06-2022 16:41:52
+
+Error: Exception
+
+Exception Type: System.Exception
+
+Error Message : AlgoParams Column 2 is Null or Empty
+
+Error Source :FilteredCSVGenerator
+
+
+--------------------------------*End*------------------------------------------
+
+
+

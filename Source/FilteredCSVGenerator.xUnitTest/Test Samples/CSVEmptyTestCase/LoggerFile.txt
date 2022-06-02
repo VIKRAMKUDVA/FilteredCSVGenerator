@@ -1,0 +1,40 @@
+-----------Exception Details on  02-06-2022 14:55:14-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-06-2022 14:55:14
+
+Error: Exception
+
+Exception Type: System.Exception
+
+Error Message : No Data Found in CSV File
+
+Error Source :FilteredCSVGenerator
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  02-06-2022 16:41:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 02-06-2022 16:41:28
+
+Error: Exception
+
+Exception Type: System.Exception
+
+Error Message : No Data Found in CSV File
+
+Error Source :FilteredCSVGenerator
+
+
+--------------------------------*End*------------------------------------------
+
+
+
