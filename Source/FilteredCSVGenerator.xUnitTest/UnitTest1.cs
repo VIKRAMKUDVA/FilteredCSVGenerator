@@ -4,7 +4,8 @@ namespace FilteredCSVGenerator.xUnitTest
 {
     public class UnitTest1
     {
-        string filepath = @"C:\Users\Vikram\source\repos\FilteredCSVGenerator\Source\FilteredCSVGenerator.xUnitTest\Test Samples\";
+        string filepath = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\Test Samples\"));
+
         [Fact]
         public void FileNotFound()
         {
